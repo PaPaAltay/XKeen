@@ -31,7 +31,7 @@
 Добавлено:
 - Поддержка ядра Mihomo
 - Возможность сменить ядро проксирования (Xray/Mihomo) параметрами `-xray` и `-mihomo`
-- Возможность [OffLine установки](https://github.com/jameszeroX/XKeen/blob/main/OffLine_install.md) (параметр `-io`)
+- Возможность [OffLine установки](https://github.com/PaPaAltay/XKeen/blob/main/OffLine_install.md) (параметр `-io`)
 - Возможность установки GeoIP базы [zkeenip.dat](https://github.com/jameszeroX/zkeen-ip)
 - Обновление [zkeen.dat](https://github.com/jameszeroX/zkeen-domains) и [zkeenip.dat](https://github.com/jameszeroX/zkeen-ip) по расписанию средствами XKeen
 - При недоступности GitHub API используется резервный источник релизов для XKeen, Xray и Mihomo 
